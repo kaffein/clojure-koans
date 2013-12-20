@@ -55,13 +55,14 @@
                 "February"
                 1 "January"
                 2006 2010 2014
-                "Vancouver"]}]
+                "Sochi" "Torino" "Vancouver"]}]
 
  ["06_functions" {"__" [81
                      20
                      10
                      60
-                     15]
+                     15
+                     30]
                "___" [+
                       *
                       (fn [f] (f 5))
