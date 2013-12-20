@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
@@ -152,3 +153,9 @@ Eclipse Public License 1.0 (http://opensource.org/licenses/eclipse-1.0.php)
 which can be found in the file epl-v10.html at the root of this distribution.
 By using this software in any fashion, you are agreeing to be bound by
 the terms of this license.
+=======
+clojure-koans
+=============
+
+Stuff for getting hands dirty with Clojure
+>>>>>>> 4cc393a47ee55a8158de69b9581ba47a05ad2fba

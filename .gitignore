@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bin
 classes
 lib
@@ -9,3 +10,11 @@ target
 .lein-plugins
 .lein-repl-history
 
+=======
+pom.xml
+*jar
+/lib/
+/classes/
+/targets/
+.lein-deps-sum
+>>>>>>> 4cc393a47ee55a8158de69b9581ba47a05ad2fba
