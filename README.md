@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
@@ -158,4 +157,3 @@ clojure-koans
 =============
 
 Stuff for getting hands dirty with Clojure
->>>>>>> 4cc393a47ee55a8158de69b9581ba47a05ad2fba
